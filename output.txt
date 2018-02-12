@@ -1,0 +1,12 @@
+List of top three articles:
+Candidate is jerk, alleges rival  ---  338647
+Bears love berries, alleges bear  ---  253801
+Bad things gone, say good people  ---  170098
+
+List of top three authors:
+Ursula La Multa  ---  507594
+Rudolf von Treppenwitz  ---  423457
+Anonymous Contributor  ---  170098
+
+List of days when error rate was more than 1 %
+July 17, 2016 --- 2.26 %
